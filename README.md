@@ -1,4 +1,6 @@
 FullStack
+
+
 Here i performed Frontend (NextJS or ReactJS): The frontend should be built using either React.js or Next.js and should include the following:
 
 Homepage: A landing page that contains an input bar where users can insert their usernames. Upon submission, the user should be taken to the Form Page.
