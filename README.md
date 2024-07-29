@@ -10,6 +10,6 @@ information, the form fields should be pre-filled with the existing data. o Clic
 
 3. Result Page: This page should display a congratulatory message upon successful form submission. It could also include a button to return to the Homepage. Backend (NestJS): The backend should be built using Nest.js and should include the following:
 
-4.API Endpoints: Create the necessary RESTful API endpoints for the following operations: o Submitting a new form o Retrieving a previously submitted form based on the username o Updating an existing form
+4. API Endpoints: Create the necessary RESTful API endpoints for the following operations: o Submitting a new form o Retrieving a previously submitted form based on the username o Updating an existing form
 
 5. Database Connection: Implement a database connection for storing form submissions. This could be MongoDB database
